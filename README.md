@@ -29,11 +29,11 @@ This repository contains a comprehensive project focused on data preparation, ex
 ### How to Run:
 1) Clone the repository:
    ```sh
-   git clone https://github.com/hase3b/flask-dash-interactive-dashboard.git
+   git clone https://github.com/hase3b/Flask-Dash-Interactive-Dashboard.git
    ```
 3) Navigate to the Dashboard folder:
    ```sh
-   cd flask-dash-interactive-dashboard/Dashboard
+   cd Flask-Dash-Interactive-Dashboard/Dashboard
    ```
 5) Run the Dash app locally:
    ```sh
