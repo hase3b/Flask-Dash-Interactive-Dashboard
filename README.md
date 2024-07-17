@@ -29,7 +29,7 @@ This repository contains a comprehensive project focused on data preparation, ex
 ### How to Run:
 1) Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/flask-dash-interactive-dashboard.git
+   git clone https://github.com/hase3b/flask-dash-interactive-dashboard.git
    ```
 3) Navigate to the Dashboard folder:
    ```sh
