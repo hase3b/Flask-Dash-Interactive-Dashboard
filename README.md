@@ -39,6 +39,8 @@ This repository contains a comprehensive project focused on data preparation, ex
    ```sh
    python index.py
    ```
+   Open your web browser and go to http://127.0.0.1:8050/ to view the app.
+   
 ### Future Work:
 * Hosting the Dash app online for broader accessibility.
 * Enhancing the app with additional analysis and visualizations.
