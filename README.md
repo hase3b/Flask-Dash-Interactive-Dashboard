@@ -25,7 +25,7 @@ This repository contains a comprehensive project focused on data preparation, ex
 * Data-Preparation.ipynb: Jupyter Notebook for data preparation and EDA
 * Project Report.pdf: Detailed project report
 * Dashboard/: Folder containing Python scripts for the Dash web app
-* Video
+* Dash App Demo: A video file showing how to run the dash app and demonstrating the app interface 
 
 ### How to Run:
 1) Clone the repository:
